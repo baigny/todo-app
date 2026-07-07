@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:8001";
+const BASE_URL = "https://todo-app-backend-ioq4.onrender.com";
 
 export async function getTodos() {
   const res = await fetch(`${BASE_URL}/todos`);
