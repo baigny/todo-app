@@ -13,9 +13,9 @@ frontend/.netlify/
 *.log
 
 # Env files
-.env
-.env.local
 
 # OS
 .DS_Store
 Thumbs.db
+config.bat
+node_modules
